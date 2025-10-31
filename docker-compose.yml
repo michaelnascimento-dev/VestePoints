@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: doacao-mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: doacao_db
+      MYSQL_USER: doacao_user
+      MYSQL_PASSWORD: doacao_pass
+    ports:
+      - "3307:3306"
