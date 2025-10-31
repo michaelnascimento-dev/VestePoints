@@ -14,7 +14,7 @@ O banco de dados já é inicializado com uma loja teste chamada "Loja Associada"
 
 
 
-O sistema inclui controle de status das doações (em análise, aprovado ou recusado), histórico de doações para cada doador e geração de cupons de resgate simulados. Foram adicionadas 7 imagens para ilustrar a interface e funcionamento. Este projeto é voltado para fins acadêmicos e demonstra conceitos de economia circular, incentivo à doação e interação entre usuários, administradores e lojas parceiras.
+O sistema inclui controle de status das doações (em análise, aprovado ou recusado), histórico de doações para cada doador e geração de cupons de resgate simulados. Este projeto é voltado para fins acadêmicos e demonstra conceitos de economia circular, incentivo à doação e interação entre usuários, administradores e lojas parceiras.
 
 
 
