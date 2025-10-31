@@ -18,17 +18,19 @@ O sistema inclui controle de status das doações (em análise, aprovado ou recu
 
 
 
-\## Capturas de Tela
+## Capturas de Tela
 
+### 🏠 Homepage
+![Homepage](images/homepage.png)
 
+### 🧑‍💼 Dashboard do Administrador 
+![Admin Dashboard 1](images/admin-dashboard-1.png)
 
-!\[Homepage](images/homepage.png)  
+### 🧑‍💼 Dashboard do Administrador 
+![Admin Dashboard 2](images/admin-dashboard-2.png)
 
-!\[Admin Dashboard 1](images/admin-dashboard-1.png)  
+### 👤 Dashboard do Doador
+![User Dashboard](images/user-dashboard.png)
 
-!\[Admin Dashboard 2](images/admin-dashboard-2.png)  
-
-!\[User Dashboard](images/user-dashboard.png)  
-
-!\[Resgate de Créditos](images/credit-redeem.png)
-
+### 💳 Resgate de Créditos do Doador
+![Resgate Créditos](images/credit-redeem.png)
